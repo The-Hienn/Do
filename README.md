@@ -1,7 +1,7 @@
 # <center>🚀 Đồ Án 1</center>
 
 <p align="center">
-  <strong>MyProject</strong> là dự án đa ngôn ngữ kết hợp <code>Java</code>, <code>Python</code> và <code>React/Node.js</code>, phục vụ học tập và phát triển ứng dụng toàn diện.
+  <strong>Đồ án 1</strong> là dự án đa ngôn ngữ kết hợp <code>Java</code>, <code>Python</code> và <code>React/Node.js</code>, phục vụ học tập và phát triển ứng dụng toàn diện.
 </p>
 
 ---
@@ -22,7 +22,7 @@ Dự án được tổ chức theo cấu trúc rõ ràng, dễ quản lý, mở 
 ## 📂 Cấu trúc thư mục
 
 ```text
-MyProject/
+DoAn1/
 │── src/             
 │   ├── components/  # React / Frontend components
 │   ├── services/    # Backend service class
@@ -37,4 +37,5 @@ MyProject/
 │── README.md        # Mô tả dự án
 │── requirements.txt # Python project
 │── LICENSE          # Quyền sử dụng dự án
+
 
